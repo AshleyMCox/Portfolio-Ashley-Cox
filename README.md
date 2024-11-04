@@ -20,6 +20,7 @@
  Source: https://github.com/AshleyMCox/osticket-preregs
  
  Platforms and Technology Used: Azure Virtual Machines, osTicket, IIS
+ 
  Project: Implementing Active Directory (On-Premises) in Azure
  Source: https://github.com/AshleyMCox/On-Premises-Active-Directory-Deployed-in-Cloud-Azure-
  Platforms and Technology Used: Azure Virtual Machines, Active Directory, PowerShell
