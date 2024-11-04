@@ -7,20 +7,16 @@
  www.github.com/AshleyMCox/Portfolio-Ashley-Cox/edit/main/README.md
  
  ## EDUCATION
- Associate’s of Science: Information Technology
- Introduction to Computer Science and Programming Using Python
- Introduction to Computational Thinking and Data Science
+ Norristown Area Highschool-Diploma
+ 
  Information Technology Course
- CERTIFICATIONS
- CompTIA A+(In progress, expected xx/yy [3 months from now]), and/or
- Community College Name, Date
- MITx
- CourseCareers
- Google IT Support Professional Certification (In progress, expected xx/yy [1 months from now])
+##  CERTIFICATIONS
+ Course Career Certificate (In progress, expected 12/25),
+ Google IT Support Professional Certification (In progress, expected 12/25)
  CourseCareers IT Professional
- PROJECTS
+ ## PROJECTS
  Project: Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines
- Source: github.com/portfolioname/project-url
+ Source: https://github.com/AshleyMCox/osticket-preregs
  Platforms and Technology Used: Azure Virtual Machines, osTicket, IIS
  Project: Implementing Active Directory (On-Premises) in Azure
  Source: github.com/portfolioname/project-url
