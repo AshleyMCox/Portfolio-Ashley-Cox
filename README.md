@@ -16,20 +16,20 @@
  CourseCareers IT Professional
 
  ## PROJECTS
- Project: Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines
+ # Project: Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines
  Source: https://github.com/AshleyMCox/osticket-preregs
  
  Platforms and Technology Used: Azure Virtual Machines, osTicket, IIS
  
- Project: Implementing Active Directory (On-Premises) in Azure
+ # Project: Implementing Active Directory (On-Premises) in Azure
  Source: https://github.com/AshleyMCox/On-Premises-Active-Directory-Deployed-in-Cloud-Azure-
  Platforms and Technology Used: Azure Virtual Machines, Active Directory, PowerShell
  
- Project: OS-Ticket Post Installation and Configuration
+ # Project: OS-Ticket Post Installation and Configuration
  Source: https://github.com/AshleyMCox/osTicket-Post-Installation-Configuration
  Platforms and Technology Used: Azure Virtual Machines, Network Security Groups, WireShark
 
- EXPERIENCE
+ ## EXPERIENCE
  Company: <Company Name>
  Title: <Title>
  ● Responsibility 1 (with metrics if possible)
