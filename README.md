@@ -4,7 +4,7 @@
 
  ashleymoniquecox@yahoo.com
  
- www.github.com/AshleyMCox/Portfolio-Ashley-Cox/edit/main/README.md
+https://github.com/AshleyMCox
  
  ## EDUCATION
  Norristown Area Highschool-Diploma
