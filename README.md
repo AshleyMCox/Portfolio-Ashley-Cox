@@ -29,17 +29,3 @@ https://github.com/AshleyMCox
  Source: https://github.com/AshleyMCox/osTicket-Post-Installation-Configuration
  Platforms and Technology Used: Azure Virtual Machines, Network Security Groups, WireShark
 
- ## EXPERIENCE
- Company: <Company Name>
- Title: <Title>
- ● Responsibility 1 (with metrics if possible)
- ● Responsibility 2
- ● Responsibility 3
- Company: <Company Name>
- Title: <Title>
- <General responsibilities (1 sentence)>
- SKILLS ANDTECHNOLOGIES
- Start Date- End Date
- Start Date- End Date
- Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Groups, Firewalls, ACLs (Access Control
- 
