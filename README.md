@@ -12,7 +12,7 @@ https://github.com/AshleyMCox
  Information Technology Course
 ##  CERTIFICATIONS
  Course Career Certificate (In progress, expected 12/25),
- Google IT Support Professional Certification (In progress, expected 12/25)
+ Google IT Support Professional Certification (In progress, expected 02/25)
  CourseCareers IT Professional
 
  ## PROJECTS
