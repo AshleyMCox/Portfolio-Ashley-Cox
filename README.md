@@ -29,10 +29,11 @@ Highschool Diploma    (August 2006/June 2009)
 ##  Project: Exploring Azure and Networking Concepts
  Source: github.com/portfolioname/project-url
  Platforms and Technology Used: Azure Virtual Machines, Network Security Groups, WireShark
- EXPERIENCE
- Company: <Company Name>
- Title: <Title>
- ● Responsibility 1 (with metrics if possible)
+
+ ## EXPERIENCE
+ Company: <Clean Queen 305>
+ Title: <Owner and Operator>
+ ●  (with metrics if possible)
  ● Responsibility 2
  ● Responsibility 3
  Company: <Company Name>
