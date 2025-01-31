@@ -55,7 +55,7 @@ General Responsibilites:
   ●Remaining compliant with state and local regulations
 
  
- SKILLS ANDTECHNOLOGIES
- Start Date- End Date
- Start Date- End Date
- Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Groups, Firewalls, ACLs (Access Contro
+ Skills & Technologies
+ Start Date- 12-4-2024
+ Start Date- 1-31-2025
+ Microsoft Office Suite, Help Desk, Ticketing System, Azure, Network Security Groups, Firewalls, ACLs (Access Control)
