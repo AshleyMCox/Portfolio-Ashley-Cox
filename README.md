@@ -20,7 +20,7 @@ Highschool Diploma    (August 2006/June 2009)
  CourseCareers IT Professional
  
  ## PROJECTS
- Project: Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines
+ ## Project: Implementing a Help Desk Ticketing System (osTicket) using Azure Virtual Machines
  Source: github.com/portfolioname/project-url
  Platforms and Technology Used: Azure Virtual Machines, osTicket, IIS
  ## Project: Implementing Active Directory (On-Premises) in Azure
@@ -31,14 +31,30 @@ Highschool Diploma    (August 2006/June 2009)
  Platforms and Technology Used: Azure Virtual Machines, Network Security Groups, WireShark
 
  ## EXPERIENCE
- Company: <Clean Queen 305>
- Title: <Owner and Operator>
- ●  (with metrics if possible)
- ● Responsibility 2
- ● Responsibility 3
- Company: <Company Name>
- Title: <Title>
- <General responsibilities (1 sentence)>
+# Company: Clean Queen 305
+ 
+ Title: Owner and Operator
+
+
+General Responsibilites: 
+
+ ● Cleaning and supplying designated areas of residential properties
+
+ ● Performing and documenting routine inspection and maintenance activities
+ 
+  ● Make adjustments and minor repairs
+
+ # Company:Curaleaf Dispensary
+ 
+ Title: Cashier
+
+  ●Providing exceptional customer service and maintaining positive customer relations
+ 
+  ●Processing customer transactions
+  
+  ●Remaining compliant with state and local regulations
+
+ 
  SKILLS ANDTECHNOLOGIES
  Start Date- End Date
  Start Date- End Date
